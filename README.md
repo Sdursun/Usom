@@ -1,3 +1,1 @@
-# Usom
-# Usom
-# Usom
+Usom listesinin IP bazlı çekilmiş hali, Sophos firewall için özellikle bu formata çevrildi.
